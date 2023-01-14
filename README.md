@@ -16,5 +16,5 @@ Run "npm i" in the project directory after cloning. Edit the .env to add your ow
 
 Run "node server" in the project directory. Interact with the backend using tools such as Insomnia to test routes and utilize the db functionality.
 
-Youtube demonstration video: 
+Youtube demonstration video: https://youtu.be/4xigOXry5Zo
 
